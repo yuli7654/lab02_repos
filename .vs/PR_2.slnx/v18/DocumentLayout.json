@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\PR_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1BC732-3303-4AE2-A557-C9A5B1CA0E90}|PR_2.vcxproj|C:\\Users\\Hp\\source\\repos\\PR_2\\PR_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E1BC732-3303-4AE2-A557-C9A5B1CA0E90}|PR_2.vcxproj|solutionrelative:PR_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\PR_2\\PR_2.cpp",
+              "RelativeDocumentMoniker": "PR_2.cpp",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\PR_2\\PR_2.cpp",
+              "RelativeToolTip": "PR_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-17T14:09:20.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
