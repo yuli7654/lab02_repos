@@ -1,5 +1,4 @@
 #include <iostream>
-44
 using namespace std;
 int main()
 {
